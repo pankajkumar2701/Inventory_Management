@@ -1,0 +1,24 @@
+{
+    "environment": {
+        "name": "Local",
+        "production": false
+    },
+    "appInsights": {
+        "instrumentationKey": ""
+    },
+    "logging": {
+        "console": true,
+        "appInsights": false
+    },
+    "api": {
+        "url": "https://abc.azurewebsites.net"
+    },
+    "app": {
+        "title": "Inventory Management"
+    },
+    "buildInfo": {
+        "number": "1.0.0.0",
+        "createdOn": "Friday, April 19, 2024 7:50:22 AM"
+    },
+    "environments": []
+}
